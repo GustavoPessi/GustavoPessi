@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Gustavo 👋
 
-<!--
-**GustavoPessi/GustavoPessi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados em uma concessionária John Deere e estudante de Ciência da Computação na UNESC (conclusão em dez/2026). Trabalho entre **dados** e **desenvolvimento de software**, sempre perto do agronegócio.
 
-Here are some ideas to get you started:
+- 📊 Desenvolvo os BIs gerenciais da concessionária em **Power BI** sobre o **Microsoft Fabric** e lidero o projeto comercial **Power Sales**.
+- 🌱 Criei o **[SafraPay](https://github.com/GustavoPessi/safrapay)**, app Android de gestão financeira rural com backend Spring Boot na AWS, sincronização offline e assistente de IA (meu TCC).
+- 🎯 Interesse: engenharia de software e dados aplicados ao campo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+**Linguagens:** Java · Python · JavaScript · SQL · DAX
+**Back-end e mobile:** Spring Boot · Spring Security (JWT) · JPA/Hibernate · Flyway · PostgreSQL · Android (Room, MVVM, Retrofit)
+**Dados:** Power BI · Microsoft Fabric · PySpark · Star Schema · Excel
+**Cloud e ferramentas:** AWS (EC2, RDS, Route 53, SES) · Nginx · Linux · Git · Figma
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/gustavo-pessi-b8a09b368](https://www.linkedin.com/in/gustavo-pessi-b8a09b368/)
+- E-mail: gustavobbpp110@gmail.com
