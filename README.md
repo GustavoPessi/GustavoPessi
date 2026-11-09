@@ -15,5 +15,5 @@ Analista de Dados em uma concessionária John Deere e estudante de Ciência da C
 
 ## Contato
 
-- LinkedIn: [linkedin.com/in/gustavo-pessi-b8a09b368](https://www.linkedin.com/in/gustavo-pessi-b8a09b368/)
+- LinkedIn: [linkedin.com/in/gustavopessi](https://www.linkedin.com/in/gustavopessi/)
 - E-mail: gustavobbpp110@gmail.com
